@@ -1,11 +1,9 @@
-# fenicsx-tutorials
-Repository of all FEniCSx &amp; DOLFINx tutorial notebooks.
-
-
+# <center> Finite Element Method Tutorials Using the FEniCSx API </center>
+---
 Tutorials:
 - [Tutorials for FEniCSx](https://steriva.github.io/FEniCSx-tutorials/intro.html)
     - __Basic Tutorials__
-        1. [Poisson](https://steriva.github.io/FEniCSx-tutorials/chapter2/Poisson.html) - [notebook](./tutorials_for_fenicsx/poisson/poisson.ipynb)
+        1. [Poisson](https://steriva.github.io/FEniCSx-tutorials/chapter2/Poisson.html) - [notebook](./)
     - __Fluid Dynamics__
         1. [Steady Stokes](https://steriva.github.io/FEniCSx-tutorials/chapter3/steadyStokes.html) - [notebook]()
         1. [Steady Navier-Stokes](https://steriva.github.io/FEniCSx-tutorials/chapter3/steadyNS.html) - [notebook]()
